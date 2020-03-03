@@ -1,0 +1,65 @@
+{
+  "id": "1611293",
+  "name": "我的法",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1620821",
+      "name": "主页",
+      "font_class": "tubiao-",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "3764364",
+      "name": "我的",
+      "font_class": "weibiaoti-",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4570096",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "4572509",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "12805322",
+      "name": "搜索",
+      "font_class": "sousuo-copy",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12805324",
+      "name": "分享",
+      "font_class": "fenxiang-copy",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "12805326",
+      "name": "我的",
+      "font_class": "weibiaoti--copy",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "12805331",
+      "name": "主页",
+      "font_class": "tubiao--copy",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
